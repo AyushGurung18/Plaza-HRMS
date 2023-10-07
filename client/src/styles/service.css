@@ -1,0 +1,30 @@
+.service-page {
+    background-color: #eef4fd; /* Add your desired background color */
+    text-align: center;
+    padding-bottom: 100px;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Allow cards to wrap if needed */
+  }
+  
+  .service-distributor{
+    padding: 25px 0px 15px 0px;
+  }
+  .card {
+    background-color: #eef4fd;
+    margin: 10px; 
+    display: flex;
+    border: none;
+    align-items: center;
+    justify-content: center;
+  }
+  .card-img{
+    width: 100px;
+    height: 100px;
+  }
+@media only screen and (max-width: 1370px) {
+      
+}
